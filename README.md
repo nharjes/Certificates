@@ -1,4 +1,4 @@
-# $${\color{yellow} My \space Certifications \space Portfolio}$$
+# My Certifications Portfolio
 
 Welcome to my certifications portfolio repository! Here, I've collected all the certificates and credentials I've earned throughout my career in technology.
 
