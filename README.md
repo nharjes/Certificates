@@ -1,4 +1,4 @@
-# My Certifications Portfolio
+# $${\color{yellow} My \space Certifications \space Portfolio}$$
 
 Welcome to my certifications portfolio repository! Here, I've collected all the certificates and credentials I've earned throughout my career in technology.
 
@@ -16,3 +16,20 @@ Feel free to browse through the certificates to get an overview of my skills and
 
 Certificates provided here are authentic and can be verified through the issuing institutions' verification platforms where applicable.
 
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+<td align="center" width="96">
+<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" alt="icon" width="80" height="80" />
+      
+</td>
+<td align="center" width="96">
+<img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="80" height="80" alt="HTML5" />
+    
+</td>
+<td align="center" width="96">
+<img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="80" height="80" alt="css" />
+  
+  
+</div>
