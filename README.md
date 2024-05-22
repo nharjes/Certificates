@@ -9,8 +9,9 @@ Welcome to my certifications portfolio repository! Here, I've collected all the 
 - Certificate 3: [Open Source Software Development, Linux and Git](https://www.credly.com/badges/9245c93d-9173-4f4b-ba6f-2daba57f9d1b/public_url)
 - Certificate 4: [IBM IT Support Certificate](https://www.credly.com/badges/ac921278-3264-4461-8018-425de4337e2d/public_url)
 - Certificate 5: [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/fd2711b5-cd7a-40ce-b48a-8c14cd8d36d4)
-- Certificate 6: [The Frontend Developer Career Path by Scrimba](https://scrimba.com/certificate/uKymRafB/gfrontend)
-- Certificate 7: [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nharjes/foundational-c-sharp-with-microsoft)
+- Certificate 6: [AWS Knowledge: Networking Core](https://www.credly.com/badges/f12d6f0e-9e1c-44e8-9864-47a141b2d69c/public_url)
+- Certificate 7: [The Frontend Developer Career Path by Scrimba](https://scrimba.com/certificate/uKymRafB/gfrontend)
+- Certificate 8: [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nharjes/foundational-c-sharp-with-microsoft)
 
 Feel free to browse through the certificates to get an overview of my skills and expertise. If you have any questions or would like more information about any of the certifications, don't hesitate to reach out.
 
@@ -36,6 +37,9 @@ Certificates provided here are authentic and can be verified through the issuing
   </td>    
   <td align="center" width="96">
   <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="80" height="80" alt="aws" />
+  </td>
+  <td align="center" width="96">
+  <img src="https://images.credly.com/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="80" height="80" alt="aws" />
   </td>
   
 
