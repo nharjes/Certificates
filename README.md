@@ -41,7 +41,7 @@ Certificates provided here are authentic and can be verified through the issuing
   <img src="https://images.credly.com/size/340x340/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" width="80" height="80" alt="linux" />
   </td>
   <td align="center" width="96">
-  <img src="https://images.credly.com/size/340x340/images/dda1e0e9-f351-4fca-84a0-458798ca332b/image.png" width="80" height="80" alt="IBM" />
+  <img src="https://images.credly.com/size/340x340/images/9db3be28-e7e7-4162-8baa-667d59230bfd/image.png" width="80" height="80" alt="IBM" />
   </td>    
   <td align="center" width="96">
   <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="80" height="80" alt="aws" />
