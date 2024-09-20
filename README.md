@@ -4,7 +4,7 @@ Welcome to my certifications portfolio repository! Here, I've collected all the 
 
 ## Certificates Included
 
-- Certificate 1: [Linux Professional Institute LPIC-1](https://cs.lpi.org/caf/Xamman/certification/process_verify)
+- Certificate 1: [Linux Professional Institute LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000614227/kqhrtfma6e)
 - Certificate 2: [Google Project Management Certificate](https://www.credly.com/badges/421adfd9-f1f1-4875-9e3d-29483579e17f)
 - Certificate 3: [Meta Front-End Developer Certificate](https://www.credly.com/badges/0a56f856-5c03-40dd-83bf-7f61e2193f4c)
 - Certificate 4: [Open Source Software Development, Linux and Git](https://www.credly.com/badges/9245c93d-9173-4f4b-ba6f-2daba57f9d1b/public_url)
