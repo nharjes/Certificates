@@ -10,7 +10,7 @@ Welcome to my certifications portfolio repository! Here, I've collected all the 
 - Certificate 4: [Open Source Software Development, Linux and Git](https://www.credly.com/badges/9245c93d-9173-4f4b-ba6f-2daba57f9d1b/public_url)
 - Certificate 5: [IBM IT Support Certificate](https://www.credly.com/badges/ac921278-3264-4461-8018-425de4337e2d/public_url)
 - Certificate 6: [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/fd2711b5-cd7a-40ce-b48a-8c14cd8d36d4)
-- Certificate 7: [AWS Knowledge: Networking Core](https://www.credly.com/badges/f12d6f0e-9e1c-44e8-9864-47a141b2d69c/public_url)
+- Certificate 7: [Microsoft Certified: Windows Server Hybrid Associate](https://learn.microsoft.com/en-us/users/nilsharjes-6354/credentials/certification/windows-server-hybrid-administrator?tab=credentials-tab)
 - Certificate 8: [The Frontend Developer Career Path by Scrimba](https://scrimba.com/certificate/uKymRafB/gfrontend)
 - Certificate 9: [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nharjes/foundational-c-sharp-with-microsoft)
 
