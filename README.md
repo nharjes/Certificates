@@ -5,12 +5,12 @@ Welcome to my certifications portfolio repository! Here, I've collected all the 
 ## Certificates Included
 
 - Certificate 1: [Linux Professional Institute LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000614227/kqhrtfma6e)
-- Certificate 2: [Google Project Management Certificate](https://www.credly.com/badges/421adfd9-f1f1-4875-9e3d-29483579e17f)
-- Certificate 3: [Meta Front-End Developer Certificate](https://www.credly.com/badges/0a56f856-5c03-40dd-83bf-7f61e2193f4c)
-- Certificate 4: [Open Source Software Development, Linux and Git](https://www.credly.com/badges/9245c93d-9173-4f4b-ba6f-2daba57f9d1b/public_url)
-- Certificate 5: [IBM IT Support Certificate](https://www.credly.com/badges/ac921278-3264-4461-8018-425de4337e2d/public_url)
-- Certificate 6: [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/fd2711b5-cd7a-40ce-b48a-8c14cd8d36d4)
-- Certificate 7: [Microsoft Certified: Windows Server Hybrid Associate](https://learn.microsoft.com/en-us/users/nilsharjes-6354/credentials/certification/windows-server-hybrid-administrator?tab=credentials-tab)
+- Certificate 2: [Microsoft Certified: Windows Server Hybrid Associate](https://learn.microsoft.com/en-us/users/nilsharjes-6354/credentials/certification/windows-server-hybrid-administrator?tab=credentials-tab)
+- Certificate 3: [Google Project Management Certificate](https://www.credly.com/badges/421adfd9-f1f1-4875-9e3d-29483579e17f)
+- Certificate 4: [Meta Front-End Developer Certificate](https://www.credly.com/badges/0a56f856-5c03-40dd-83bf-7f61e2193f4c)
+- Certificate 5: [Open Source Software Development, Linux and Git](https://www.credly.com/badges/9245c93d-9173-4f4b-ba6f-2daba57f9d1b/public_url)
+- Certificate 6: [IBM IT Support Certificate](https://www.credly.com/badges/ac921278-3264-4461-8018-425de4337e2d/public_url)
+- Certificate 7: [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/fd2711b5-cd7a-40ce-b48a-8c14cd8d36d4)
 - Certificate 8: [The Frontend Developer Career Path by Scrimba](https://scrimba.com/certificate/uKymRafB/gfrontend)
 - Certificate 9: [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nharjes/foundational-c-sharp-with-microsoft)
 
@@ -29,7 +29,7 @@ Certificates provided here are authentic and can be verified through the issuing
   <img src="https://www.guruteamirl.com/_fileupload/Image/Certification/Certification-311411343-lpic-1.jpg" width="80" height="80" alt="LPIC 1" />
   </td>
    <td align="center" width="96">
-  <img src="https://images.credly.com/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="80" height="80" alt="aws" />
+  <img src="https://learn.microsoft.com/de-de/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="80" height="80" alt="Microsoft" />
   </td>
   <td align="center" width="96">
   <img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" alt="icon" width="80" height="80" alt="google" />
